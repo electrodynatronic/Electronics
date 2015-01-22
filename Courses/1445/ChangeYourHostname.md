@@ -14,8 +14,8 @@ Some articles that explain server naming conventions
 
 ## How to change the hostname on a linux machine
 
-  sudo nano /etc/hostname
+    sudo nano /etc/hostname
   
-  sudo service networking restart
+    sudo service networking restart
   
   
