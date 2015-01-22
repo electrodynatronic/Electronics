@@ -6,7 +6,13 @@ In short, a hostname is a unique identifier(label) that is applied to a computer
 
 ## Pets vs Cattle
 Some articles that explain server naming conventions
+* http://www.theregister.co.uk/2013/03/18/servers_pets_or_cattle_cern/
+* http://www.tomsitpro.com/articles/openstack-pets-and-cattle,1-1759.html
+* https://blog.engineyard.com/2014/pets-vs-cattle
+* http://www.slideshare.net/gmccance/cern-data-centre-evolution
+* 
 
+## How to change the hostname on a linux machine
 
   sudo nano /etc/hostname
   
