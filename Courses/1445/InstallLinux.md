@@ -21,6 +21,7 @@ Note that there is nothing wrong with any of these Linux distributions. I sugges
 ## Burn a DVD
 * Write the name of the image file on the blank DVD before burning
 * 
+
 ## Install Linux
 
 ## After Installation
