@@ -10,3 +10,20 @@
   1. Gentoo
 
 Note that there is nothing wrong with any of these Linux distributions. I suggest avoiding them because I have little recent experience using them, and thus I am less likely to be able to help you quickly fix problems which may occur. If you know what you are doing, proceed at your own risk.
+
+## Download an image
+* Linux Mint xfce - [linuxmint-17.1-xfce-64bit.iso](http://einstein.lan/files/linuxmint-17.1-xfce-64bit.iso) md5 b053518aa6e9f33391251a3c521462d3
+* Linux Mint [website](http://www.linuxmint.com)
+* Ubuntu
+* Debian
+* 
+
+## Burn a DVD
+* Write the name of the image file on the blank DVD before burning
+* 
+## Install Linux
+
+## After Installation
+* http://www.binarytides.com/better-linux-mint-17-cinnamon/
+* http://itsfoss.com/things-to-do-after-installing-linux-mint-17/
+* 
