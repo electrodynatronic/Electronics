@@ -29,3 +29,8 @@ Note that there is nothing wrong with any of these Linux distributions. I sugges
 * http://www.binarytides.com/better-linux-mint-17-cinnamon/
 * http://itsfoss.com/things-to-do-after-installing-linux-mint-17/
 * 
+
+## Dual monitors for xfce or kde
+* connect each monitor to the card on the tower
+* in terminal window enter sudo apt-get install arandr
+* use arandr to configure monitors to your liking
