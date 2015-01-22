@@ -32,5 +32,5 @@ Note that there is nothing wrong with any of these Linux distributions. I sugges
 
 ## Dual monitors for xfce or kde
 * connect each monitor to the card on the tower
-* in terminal window enter sudo apt-get install arandr
+* Install arandr `sudo apt-get install arandr`
 * use arandr to configure monitors to your liking
