@@ -23,6 +23,7 @@ Note that there is nothing wrong with any of these Linux distributions. I sugges
 * 
 
 ## Install Linux
+* Add some instructions here
 
 ## After Installation
 * http://www.binarytides.com/better-linux-mint-17-cinnamon/
