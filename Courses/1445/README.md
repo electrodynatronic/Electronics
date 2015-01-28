@@ -13,6 +13,7 @@
 ## Week 2 - Working with Operating Systems and Software
 
 * [The `alias` command](http://www.maketecheasier.com/making-the-linux-command-line-a-little-friendlier/)
+* Extra Stuff: What is IRC? 
 
 ## Week 3
 
