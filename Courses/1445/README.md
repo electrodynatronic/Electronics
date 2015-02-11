@@ -17,3 +17,4 @@
 
 ## Week 3
 
+* [PC Troubleshooting flowchart](http://i.imgur.com/WFJ4c3p.jpg) 
