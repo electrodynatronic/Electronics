@@ -18,3 +18,7 @@
 ## Week 3
 
 * [PC Troubleshooting flowchart](http://i.imgur.com/WFJ4c3p.jpg) 
+
+
+## Week n
+* [Unix command tutorial](http://www.oliverelliott.org/article/computing/tut_unix/)
