@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 import random
 
-# Very poorly designed program for generating new KAYAK puzzles
-# Makes no attempt to guarantee that KAYAK actually appears
+# Very poorly designed program for generating new KAYAK puzzles.
+# Makes no attempt to guarantee that KAYAK actually appears.
 # Relies on luck for that. KAYAK may also appear many times.
-# generate a new puzzle by issuing the following command from a terminal:
+# Generate a new puzzle by issuing the following command from a terminal:
 # python make_new_puzzle.py >KAYAK.txt
 # Check that the generated file contains KAYAK with grep:
 # grep "K A Y A K" KAYAK.txt 
@@ -53,8 +53,8 @@ def make_new_puzzle():
 if __name__=="__main__":
     make_new_puzzle()
 
-    for item in range(30*30):
-        print "".join(line[item]),
-        if (((item+1)%30)==0):
-            print""
+    for item in range(puzzle_length*line_length):
+        print(line[item]),     #Print without starting a newline
+        if (((item+1)%line_length)==0):
+            print""            #End of the line. Print a newline
             
