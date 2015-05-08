@@ -22,3 +22,8 @@
 
 ## Week n
 * [Unix command tutorial](http://www.oliverelliott.org/article/computing/tut_unix/)
+
+## Review
+
+* Python
+ * [Why if__name__ == "__main__":?](http://ibiblio.org/g2swap/byteofpython/read/module-name.html)
