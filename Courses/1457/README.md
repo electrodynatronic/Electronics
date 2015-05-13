@@ -1,5 +1,5 @@
 ## Week 1 - Welcome Back
-
+* [Link to Component DB (Google docs, read only)](https://docs.google.com/spreadsheets/d/1g-iS-tABh0GuJSOWEIp5B7ZovaG1ojLGzP7s4R9kvNo/edit?usp=sharing)
 ## Week 2
 
 * Ensure a working installation of LTSpice 
