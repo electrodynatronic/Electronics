@@ -21,7 +21,12 @@
 
 
 ## Week n
+
 * [Unix command tutorial](http://www.oliverelliott.org/article/computing/tut_unix/)
+
+## Week n+1
+
+* [C-C-C-Combo Breaker, Arduino based combination lock solver](http://pagego.net/zc2mtqyodmyn)
 
 ## Review
 
