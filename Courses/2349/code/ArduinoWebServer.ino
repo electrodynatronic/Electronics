@@ -19,8 +19,11 @@ dht DHT;
 
 // Enter a MAC address and IP address for your controller below.
 // The IP address will be dependent on your local network:
-byte mac[] = {  0x42, 0x42, 0x42, 0x42, 0x42, 0x42};
-IPAddress ip(192, 168, 1, 42);
+//
+// Note: program will not work unless you provide your own mac address and IP address
+//byte mac[] = {  0x42, 0x42, 0x42, 0x42, 0x42, 0x42};
+// Use an ip in the range of 50-99, ie: change the 42 to a number you choose that is between 50 and 99
+//IPAddress ip(192, 168, 1, 42);
 
 // Initialize the Ethernet server library
 // with the IP address and port you want to use
